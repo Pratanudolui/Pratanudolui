@@ -1,57 +1,90 @@
-# Pratanudolui's GitHub Profile
+# Hi, I'm Pratanu Dolui 👋
 
-Welcome to my GitHub! I'm Pratanudolui, an aspiring Software Engineer with a passion for building scalable and efficient applications. Below, you'll find an overview of my technical skills, projects, and coding journey.
+📧 [pratanudolui58@gmail.com](mailto:pratanudolui58@gmail.com) | 📱 [+91 9382618467](tel:+919382618467) | [LinkedIn](https://www.linkedin.com/in/pratanu-dolui-044761229) | [GitHub](https://github.com/Pratanudolui)
+
+*Full Stack Developer | Java | Spring Boot | ReactJS | SQL*
+Focused on building responsive, scalable, and secure web applications.
+
+---
+
+## 👨‍💻 About Me
+
+* Full Stack Developer Intern at *Dhee Coding Lab*
+* Hands-on experience with *Java, Spring Boot, Hibernate, ReactJS, and SQL*
+* Skilled in *REST API Development, Web Application Architecture, and Database Optimization*
+* Strong background in *Agile/Scrum, MVC Architecture, and CI/CD*
+* Committed to delivering *clean, user-focused, and impactful solutions*
+
+---
 
 ## 🛠 Skills
 
-**Frontend:** HTML, CSS, JavaScript, TypeScript, ReactJS
-**Backend:** Java, Servlets, Spring, Spring Boot, Hibernate, REST APIs
-**Databases:** MySQL, SQLite, MongoDB
-**Tools & Methodologies:** Git, GitHub, Postman, Agile, MVC Architecture
+* *Languages:* Java, JavaScript, TypeScript, Python
+* *Frameworks & Libraries:* Spring Boot, Hibernate, ReactJS, Servlets
+* *Databases:* MySQL, SQLite, MongoDB
+* *DevOps & Tools:* Git, GitHub, Postman, VS Code, Eclipse
+* *Practices:* REST APIs, MVC Architecture, Agile/Scrum, Hibernate ORM, Unit Testing
 
-## 🎓 Education
+---
 
-**Bachelor of Engineering – 2025**
-PES Institute Of Technology And Management, Shimoga, Karnataka, India
-*Computer Science and Engineering*
+## 💼 Experience
 
-## 💼 Internship Experience
+**Full Stack Developer Intern – Dhee Coding Lab** (Feb 2024 – Present)
 
-### Full Stack Intern – Dhee Coding Lab | Feb 2024 – Present
+* Built scalable full-stack web applications with *Java, Spring Boot, Hibernate, ReactJS*
+* Developed REST APIs and optimized database queries for better performance
+* Participated in Agile sprints, Git branching, and peer code reviews
 
-* Developed web applications using ReactJS, HTML, CSS, JavaScript (frontend).
-* Built backend modules in Java, Spring Boot, Hibernate with SQL database integration.
-* Implemented REST APIs for data exchange and optimized DB queries with Hibernate ORM.
-* Collaborated with a team to enhance web applications with a focus on scalability and maintainability.
+**Web Development Intern – CODESOFT** (Dec 2023 – Jan 2024)
 
-### Virtual Internship – Web Development | CODESOFT | Dec 2023 – Jan 2024
+* Designed responsive websites using *HTML, CSS, JavaScript*
+* Integrated MySQL databases for efficient data storage and retrieval
+* Focused on frontend responsiveness and backend optimization
 
-* Designed and developed responsive websites using HTML, CSS, and JavaScript.
-* Integrated MySQL databases for data storage and retrieval, improving backend performance.
-* Focused on frontend and backend development, optimizing website responsiveness and user experience.
+---
 
-## 📚 Projects
+## 📌 Featured Projects
 
-### PetCare CRM (Full Stack – ReactJS + Spring Boot + SQL) (Ongoing)
+**[PetCare CRM](https://github.com/Pratanudolui)**
+ReactJS | Spring Boot | MySQL | REST APIs
 
-Developed a CRM application for veterinary clinics with features like appointment scheduling, record management, and automated alerts. Built the frontend using ReactJS, HTML, CSS, JavaScript and backend APIs with Spring Boot, integrated with MySQL for secure data management. Implemented role-based authentication and responsive UI for better usability.
+* Developed a CRM for veterinary clinics with appointment scheduling, record management, and automated alerts
+* Built frontend with ReactJS and backend APIs with Spring Boot, integrated with MySQL
+* Implemented role-based authentication and responsive UI for usability
 
-### Shopping Cart System (Spring Boot + Hibernate + SQL) (Apr 2024 – May 2024)
+**[Shopping Cart System](https://github.com/Pratanudolui)**
+Spring Boot | Hibernate | MySQL | REST APIs
 
-Designed and implemented an e-commerce shopping cart system using Spring Boot and Hibernate ORM for backend persistence. Integrated user authentication, product catalog, and order processing workflows to ensure a smooth end-to-end shopping experience.
+* E-commerce system with product catalog, user authentication, and order processing
+* Backend built using Spring Boot and Hibernate ORM for database persistence
+* Designed for smooth end-to-end shopping experience
 
-### Quantum Computing for Insurance Risk Assessment and Premium Optimization (Sept 2024 – Dec 2024)
+**[Quantum Insurance Risk Prediction](https://github.com/Pratanudolui)**
+Django | QML | Data Analysis | Machine Learning
 
-Developed a Quantum Machine Learning (QML) model to enhance insurance risk assessment. With 10,000–50,000 applications processed daily, the model replaces manual methods with real-time data analysis and dynamic pricing, significantly improving prediction accuracy and operational efficiency for insurers.
+* Quantum Machine Learning model to automate insurance risk assessment
+* Processed 10,000–50,000 applications daily, improving prediction accuracy and operational efficiency
+
+---
 
 ## 🏆 Achievements
 
-* Programming in Java – NPTEL
-* The SQL Programming Essentials Immersive Training – Udemy
-* Databases with Python: MySQL, SQLite & MongoDB with Python – Udemy
-* Python and Artificial Intelligence – Google Developer Student Clubs
+* 🥇 *Programming in Java* – NPTEL
+* 🎓 *SQL Programming Essentials* – Udemy
+* 🎓 *Databases with Python: MySQL, SQLite & MongoDB* – Udemy
+* 🎓 *Python and Artificial Intelligence* – Google Developer Student Clubs
 
-## 💻 LeetCode Status
+---
 
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?pratanudolui58)](https://leetcode.com/pratanudolui58)
+## 📊 Competitive Programming
+
+* Active on *LeetCode*: Practicing algorithms and data structures to strengthen problem-solving skills
+* Focus areas: *Dynamic Programming, Graphs, Greedy, Arrays, Strings, Trees*
+
+### 📈 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pratanudolui58?theme=dark\&font=Karma\&ext=heatmap)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge\&logo=LeetCode\&logoColor=yellow)](https://leetcode.com/pratanudolui58/)
+
+---
 
